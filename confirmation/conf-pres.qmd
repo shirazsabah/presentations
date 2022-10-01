@@ -1,0 +1,476 @@
+---
+format:
+  revealjs: 
+    slide-number: true
+    chalkboard: 
+      buttons: false
+    preview-links: auto
+    logo: files/images/uoo.png
+    theme: white
+    css: files/styles.css
+    footer: "Confirmation of Status"
+    smaller: false
+    auto-stretch: false
+    mouse-wheel: false
+    history: true
+    touch: true
+    link-external-icon: false
+    link-external-newwindow: true
+    link-external-filter: ^\/Users\/custom
+bibliography: files/refs.bib
+csl: files/elsevier-harvard.csl
+link-citations: true
+link-bibliography: true
+editor: source
+---
+
+## [Elective, aseptic revision knee arthroplasty:]{style="color: #EE7520;"} {.smaller background-color="#0F1D41"}
+
+```{=html}
+<br>
+<h1 style="text-align:center;">Measuring outcomes, patient perspectives and cost-effectiveness</h1>
+<br>
+<br>
+<p style="text-align:center; color:#01A2DE;">Shiraz A. Sabah</p>
+```
+
+::: {.footer}
+:::
+
+## Conflicts of interest
+
+None
+
+## Funder statement {.smaller}
+
+::: columns
+::: {.column width="45%"}
+This programme of research was supported by:
+
+- NIHR Doctoral Research Fellowship (NIHR301771)
+- Royal College of Surgeons One Year Fellowship
+- Rosetrees Trust
+
+The views expressed are those of the authors and not necessarily those of the funders.
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="45%"}
+:::{r-stack}
+![](files/images/nihr.png){width="500"}
+![](files/images/rcs.png){width="350"}
+![](files/images/rosetrees.png){width="500"}
+:::
+:::
+:::
+
+# Introduction {background-color="#0F1D41"}
+
+## Primary knee arthroplasty (pKA)
+
+::: columns
+::: {.column width="55%"}
+- 100,000 pKA/yr in UK
+- 10-15% patients -> chronic pain
+- 4% pKA revised within 10 years
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="35%"}
+:::{r-stack}
+![](files/images/knee xr.png){width="400"}
+:::
+:::
+:::
+
+## Revision knee arthroplasty (rKA)
+
+- Heterogenous group
+  - Minor & major surgery
+  - Predictable & unpredictable clinical outcomes
+
+## Urgent v elective indications
+
+::: columns
+
+::: {.column width="49%"}
+:::{.callout-important collapse=true appearance='default' icon=true}
+## URGENT (25%)
+- High rate of early mortality [@abram2021]
+  - PJI ~ 2%
+  - Fracture ~ 5%
+    
+- Serious adverse events common [@boddapati2018; @abram2021]
+    
+- Expensive [@kallala2015a]
+:::
+:::
+
+::: {.column width="2%"}
+:::
+
+::: {.column width="49%"}
+:::{.callout-note collapse=true appearance='default' icon=true}
+## ELECTIVE (75%)
+- Similar to pKA?
+:::
+:::
+:::
+
+## Variability in PROMs for elective, aseptic rKA
+
+:::{r-stack}
+![](files/images/baker-rfr.png){height="400" fig-align="center"}
+:::
+
+::: {.aside}
+[@baker2012b]
+:::
+
+## Patient and Public Involvement {auto-animate="true"}
+
+::: columns
+::: {.column width="60%"}
+<br>
+<q>How should we measure the outcomes following revision knee surgery in a way that is meaningful to patients and is surgery cost effective?</q>
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="35%"}
+:::{r-stack}
+![](files/images/jla.png)
+:::
+:::
+:::
+
+::: {.aside}
+[@mathews2020]
+:::
+
+<!-- ## Gaps in the evidence  {auto-animate="true" .smaller .hidden} -->
+
+<!-- ::: {.incremental} -->
+<!-- -	How common is elective, aseptic rKA? What are the trends in the rate of intervention over time? Have the indications for surgery changed? -->
+<!-- -	How should we measure the outcome from surgery in a way that is meaningful to patients? Can we use existing PROMs? -->
+<!-- - What are the risks and benefits of elective, aseptic rKA? Does the outcome from surgery depend on the diagnosis? -->
+<!-- - Are there patient groups who experience variable or poor outcomes from elective, aseptic rKA? What underpins the decision to operate in these cases? Are these procedures cost-effective?  -->
+<!-- ::: -->
+
+
+## Aims {.smaller}
+
+This thesis aims to improve the management of patients undergoing elective, aseptic rKA by advancing our knowledge on:
+
+::: {.incremental}
+- Epidemiology of elective, aseptic rKA;
+- Validity of existing instruments to measure the outcome following surgery;
+- Patient-relevant outcomes from surgery;
+- Surgical decision making - from the perspective of patients, surgeons and the healthcare system
+:::
+
+## Objectives {.smaller}
+
+This thesis will deliver the following objectives:
+
+::: {.incremental}
+-	An epidemiological study to investigate the rate and indications for elective, aseptic rKA and trends over time ([Chapter 3](#c3))
+-	A systematic review of current use and measurement properties of existing patient reported outcome measures (PROMs) for elective, aseptic rKA ([Chapter 4](#c4))
+- A systematic review of patient-relevant outcomes following rKA ([Chapter 5](#c5))
+- A registry study of patient-relevant outcomes following rKA by diagnosis ([Chapter 6](#c6))
+-	A qualitative interview study to explore the decision to operate for unexplained pain ([Chapter 7](#c7))
+-	A health economic evaluation of rKA versus non-operative management for the management of unexplained pain ([Chapter 8](#c8))
+:::
+
+# Epidemiology of rKA {background-color="#0F1D41" #c3}
+
+Chapter 3
+
+## Methods
+
+- Aim:
+  - To investigate the rate of intervention for elective, aseptic rKA in the UK and trends over time.
+- Design: 
+  - Cross-sectional study; 2006 - 2020
+- Datasets: 
+  - National Joint Registry (NJR)
+  - Office for National Statistics
+
+::: {.footer}
+Chapter 3: Epidemiology
+:::
+
+## Increases in rate of rKA have slowed
+
+:::{r-stack}
+![](files/images/epi-time.png){height="500" fig-align="center"}
+:::
+
+::: {.footer}
+Chapter 3: Epidemiology
+:::
+
+## Indications for rKA have changed
+
+:::{r-stack}
+![](files/images/epi-rfr.png){height="500" fig-align="center"}
+:::
+
+::: {.footer}
+Chapter 3: Epidemiology
+:::
+
+# Validity of PROM instruments {background-color="#0F1D41" #c4}
+
+Chapter 4
+
+::: {.footer}
+Chapter 4: PROMs
+:::
+
+## Methods
+
+- Aim:
+    - To investigate measurement properties of existing PROMs for joint function in elective, aseptic rKA.
+
+-	Design:
+    - Systematic review (following the COSMIN checklist)
+
+::: {.footer}
+Chapter 4: PROMs
+:::
+
+## PROMs increasingly used; evidence for validity insufficient
+
+```{=html}
+<iframe src="files/papers/rka_cosmin.pdf" style="border: 3px solid #dee2e6;" width="1000" height="550"></iframe>
+```
+
+[@sabah2021e]
+
+::: {.footer}
+Chapter 4: PROMs
+:::
+
+## Measurement properties of Oxford Knee Score (OKS)
+
+- Aim:
+    - To investigate the measurement properties of the OKS (since no validation study was found in the systematic review, yet the instrument is widely used for rKA)
+
+-	Design:
+    - Psychometric study (using the NHS PROMs dataset)
+
+## OKS had good measurement properties for elective, aseptic rKA
+
+```{=html}
+<iframe src="files/papers/rka_oks_val.pdf" style="border: 3px solid #dee2e6;" width="1000" height="550"></iframe>
+```
+
+[@sabah2021]
+
+::: {.footer}
+Chapter 4: PROMs
+:::
+
+# Systematic review of patient-relevant outcomes {background-color="#0F1D41" #c5}
+
+Chapter 5
+
+::: {.footer}
+Chapter 5: Systematic review
+:::
+
+## Methods
+
+- Aim:
+    - To critically summarise patient-relevant outcomes following elective, aseptic rKA compared to non-operative management:
+        - Implant survivorship
+        - Mortality
+        - Serious medical complications
+        - Patient-reported outcome measures (PROMs)
+        - Length of index hospital admission
+
+::: {.footer}
+Chapter 5: Systematic review
+:::
+
+## Study design
+
+:::{r-stack}
+![](files/images/sr-design.png){height="550" fig-align="center"}
+:::
+
+::: {.footer}
+Chapter 5: Systematic review
+:::
+
+## PRISMA flowchart
+
+:::{r-stack}
+![](files/images/sr-prisma.png){height="550" fig-align="center"}
+:::
+
+::: {.footer}
+Chapter 5: Systematic review
+:::
+
+## Implant survivorship
+
+:::{r-stack}
+![](files/images/sr-is.jpg){height="550" fig-align="center"}
+:::
+
+::: {.footer}
+Chapter 5: Systematic review
+:::
+
+
+## Other findings
+
+```{=html}
+<iframe src="files/papers/05-sr.pdf" style="border: 3px solid #dee2e6;" width="1000" height="500"></iframe>
+```
+
+::: {.footer}
+Chapter 5: Systematic review
+:::
+
+## Conclusions
+
+- No randomised controlled trials or comparative studies of elective, aseptic rKA compared to non-operative management. 
+- Insufficient evidence to stratify patient relevant outcomes by diagnosis - justifying the need for [Chapter 6](#c6).
+
+::: {.footer}
+Chapter 5: Systematic review
+:::
+
+
+# Patient-relevant outcomes by diagnosis {background-color="#0F1D41" #c6}
+
+Chapter 6
+
+::: {.footer}
+Chapter 6: Big data
+:::
+
+## Methods
+
+- Aim:
+    - To investigate patient-relevant outcomes by diagnosis using the latest available national data.
+
+-	Design:
+    - Retrospective cohort study
+    - Data from: NJR, HES, NHS PROMs, and Civil Registrations (Mortality)
+    
+::: {.footer}
+Chapter 6: Big data
+:::
+
+
+## Data linkage
+
+:::{r-stack}
+![](files/images/bd-flow.png){height="550" fig-align="center"}
+:::
+
+::: {.footer}
+Chapter 6: Big data
+:::
+
+## Patient-relevant outcomes from rKA by diagnosis 
+
+[https://shiraz-sabah.shinyapps.io/rKA-app/](https://shiraz-sabah.shinyapps.io/rKA-app/)
+
+::: {.footer}
+:::
+
+# Decision to operate for unexplained pain {background-color="#0F1D41" #c7}
+
+Chapter 7
+
+::: {.footer}
+Chapter 7: Qualitative
+:::
+
+## Methods {.smaller}
+
+- Aim:
+    - To understand the decision to operate for unexplained, chronic pain
+    
+- Design:
+    - Qualitative interview study
+    - Thematic analysis as per Braun & Clarke
+    
+- Progress:
+    - Surgeon interviews near completion;
+    - Patient recruitment underway
+    
+::: {.footer}
+Chapter 7: Qualitative
+:::
+
+# Cost-effectiveness analysis of rKA for unexplained pain {background-color="#0F1D41" #c8}
+
+Chapter 8
+
+::: {.footer}
+Chapter 8: HEE
+:::
+
+## Methods {.smaller}
+
+- Aim:
+    - To investigate the cost-effectiveness of rKA compared to non-operative management for the treatment of unexplained, chronic pain after KA
+    
+- Design:
+    - A patient-level simulation of rKA versus non-operative management using data from national secondary care datasets and other sources
+    
+- Progress:
+    - HEAP design
+    
+::: {.footer}
+Chapter 8: HEE
+:::
+
+
+# Future work {background-color="#0F1D41"}
+
+::: {.footer}
+Future work
+:::
+
+## Gantt chart
+
+:::{r-stack}
+![](files/images/conf-gantt.svg){height="600" fig-align="center"}
+:::
+
+::: {.footer}
+Future work
+:::
+
+# Conclusion {.smaller}
+
+This DPhil has started to create useful information on:
+
+  - Epidemiology of rKA
+  - Validity of existing PROMs
+  - Patient-relevant outcomes following surgery
+
+The remaining chapters will investigate patients with unexplained pain:
+
+  - Understanding the decision to operate
+  - Cost-effectiveness of surgery
+
+# Thank you
+<br>
+[shiraz.sabah@ndorms.ox.ac.uk](mailto:shiraz.sabah@ndorms.ox.ac.uk)
+
+# References {.smaller .scrollable}
+::: {#refs}
+:::

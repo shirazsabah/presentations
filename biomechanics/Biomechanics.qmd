@@ -1,0 +1,59 @@
+---
+title: "Biomechanics"
+author: "Shiraz Sabah"
+format:
+  revealjs: 
+    slide-number: true
+    chalkboard: 
+      buttons: false
+    preview-links: auto
+    smaller: true
+    logo: files/stanmore_logo.png
+    history: true
+    touch: true
+editor: source
+---
+
+## Definition of biomechanics (Ahmed)
+
+## What are the six simple machines? (Amit Z/Tolga/Sonia)
+
+## Trigonometry (Prashant/Sachi)
+
+## Leg length and offset when adding femoral head to 125 deg v 135 deg THR stem? (Karen/Thomas)
+
+## Scalars & vectors (Joshua/Ankur)
+
+## What is a force? (Amit A/Firas)
+
+## What are Newton's laws of motion? (Amir)
+
+## How much force am I putting through the floor right now? (Uche)
+
+## Statics & dynamics (Hosain)
+
+## What is a moment? (Arjun)
+
+## Examples of levers (Jamie)
+
+## What is a free body diagram? (Oliver)
+
+## Assumptions of free body diagrams (George)
+
+## Kinematics v Kinetics (Jonathan)
+
+## Define: Work (Mohammed)
+
+## Define: Potential energy (Nadine)
+
+## Define: Kinetic energy (Richard)
+
+## Define: Power (Michael)
+
+## What is Hooke's law? (Chukwundabem)
+
+## Define stress (Chris)
+
+## Define strain (Nikki)
+
+## Stress-strain curve (Fahimara, Shreyas, Harry)

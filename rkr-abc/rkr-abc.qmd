@@ -1,0 +1,247 @@
+---
+format:
+  revealjs:
+    background-image: files/images/ndorms-bg.png
+    slide-number: true
+    chalkboard: 
+      buttons: false
+    preview-links: auto
+    logo: files/images/uoo.png
+    theme: [white, files/custom.scss]
+    css: files/styles.css
+    footer: "Revision Knee Arthroplasty"
+    smaller: false
+    auto-stretch: false
+    mouse-wheel: false
+    history: true
+    touch: true
+    link-external-icon: false
+    link-external-newwindow: true
+    link-external-filter: ^\/Users\/custom
+    transition: slide
+bibliography: files/refs.bib
+csl: files/elsevier-harvard.csl
+link-citations: true
+link-bibliography: true
+editor: source
+---
+
+## {background-color="#0F1D41"}
+```{=html}
+<br>
+<h1 style="text-align:center;">Epidemiology of revision knee arthroplasty</h1>
+<br>
+<br>
+<p style="text-align:center;">Shiraz Sabah</p>
+
+```
+
+## Conflicts of interest
+
+None
+
+## Funder statement {.smaller}
+
+::: columns
+::: {.column width="45%"}
+This programme of research was supported by:
+
+- NIHR Doctoral Research Fellowship (NIHR301771)
+- Royal College of Surgeons One Year Fellowship
+- Rosetrees Trust
+
+The views expressed are those of the authors and not necessarily those of the funders.
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="45%"}
+:::{r-stack}
+![](files/images/nihr.png){width="500"}
+![](files/images/rcs.png){width="350"}
+![](files/images/rosetrees.png){width="500"}
+:::
+:::
+:::
+
+## Introduction {.smaller}
+
+::: columns
+::: {.column width="55%"}
+- Knee arthroplasty (KA) highly successful at relieving pain & improving QoL
+- However... 
+    - 4% pKA revised within 10 years
+    - Population ageing
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="35%"}
+:::{r-stack}
+![](files/images/knee xr.png){width="400"}
+:::
+:::
+:::
+
+## Exponential rise in rKA? {auto-animate="true"}
+
+:::{r-stack}
+![](files/images/kurtz-gs.png){width="700" fig-align="center"}
+:::
+
+## Exponential rise in rKA? {auto-animate="true"}
+
+:::{r-stack}
+![](files/images/exp-kr.png){width="700" fig-align="center"}
+:::
+
+## Has the rate of increase *slowed*?
+
+```{=html}
+<iframe src="https://actaorthop.org/actao/article/view/609/583" style="border: 3px solid #dee2e6;" width="1000" height="550"></iframe>
+```
+
+## Have indications for rKA changed?
+
+```{=html}
+<iframe src="https://actaorthop.org/actao/article/view/825/941" style="border: 3px solid #dee2e6;" width="1000" height="550"></iframe>
+```
+
+## Aim
+- To investigate **trends** in the **incidence rate** & **main indication** for rKA over past 15 years in UK
+
+## NJR annual report
+
+::: columns
+::: {.column width="45%"}
+
+- **Counts** of procedures
+- Useful for resource planning, e.g.:
+  - How many surgeons? 
+  - How much £?
+- **No standardised rates**
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="45%"}
+:::{r-stack}
+![](files/images/njr-ar.png){height="550"}
+:::
+:::
+:::
+
+
+## Methods {.smaller}
+
+::: columns
+::: {.column width="45%"}
+- Cross-sectional study
+  - Longer term trends: 2006 - 2019
+  - Effect of Covid-19: 2020 v 2019
+- Data: 
+  - National Joint Registry (NJR)
+  - Office for National Statistics
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="45%"}
+![](files/images/flowchart-1.png){width=520}
+:::
+:::
+
+# Results {background-color="#0F1D41"}
+
+## Increases in rate of rKA have slowed
+
+:::{r-stack}
+![](files/images/Fig 1b.png){height="500" fig-align="center"}
+:::
+
+## Covid-19 pandemic {.smaller}
+
+-   **43.6% reduction** in rKA in 2020 compared to 2019
+
+:::{r-stack}
+![](files/images/Fig 1b.png){height="500" fig-align="center"}
+:::
+
+## Most rKA now linkable to a pKA
+
+-   4.4% in 2006, 71.3% in 2019
+
+:::{r-stack}
+![](files/images/Fig 2.png){height="500" fig-align="center"}
+:::
+
+## Increases in rKA for older patients
+
+:::{r-stack}
+![](files/images/Fig 3.png){height="500" fig-align="center"}
+:::
+
+## &uarr; Infection {auto-animate="true"}
+
+:::{r-stack}
+![](files/images/Fig 8.png){height="500" fig-align="center"}
+:::
+
+## &darr; Aseptic loosening, unexplained pain {auto-animate="true"}
+
+:::{r-stack}
+![](files/images/Fig 8.png){height="500" fig-align="center"}
+:::
+
+## Similar trends in crude incidence rate {auto-animate="true"}
+
+:::{r-stack}
+![](files/images/Fig 4.png){height="500" fig-align="center"}
+:::
+
+## Re-revision procedures
+
+:::{r-stack}
+![](files/images/Fig 5.png){height="500" fig-align="center"}
+:::
+
+## Strengths
+::: columns
+::: {.column width="47%"}
+- Largest study of trends in rKA
+- Open & reproducible 
+  - Statistical code in public domain
+:::
+
+::: {.column width="6%"}
+:::
+
+::: {.column width="47%"}
+:::{r-stack}
+![](files/images/epi-gh.png){height="100%" fig-align="center"}
+:::
+:::
+:::
+
+## Limitations
+- Trends in reporting or practice?
+- Inadequate data to calculate prevalence
+- Reason for revision:
+  - Diagnosis hierarchy
+  - Change in coding over study period
+
+# Conclusion
+
+-   *Slowing* of increases in rKA over past 15 years
+-   Infection &uarr; &uarr;
+    - Prevalent in re-revision
+-   Aseptic loosening &darr;
+
+# Thank you
+<br>
+[shiraz.sabah@ndorms.ox.ac.uk](mailto:shiraz.sabah@ndorms.ox.ac.uk)
+

@@ -1,0 +1,279 @@
+---
+format:
+  revealjs: 
+    slide-number: true
+    chalkboard: 
+      buttons: false
+    preview-links: auto
+    logo: files/images/uoo.png
+    theme: white
+    css: files/styles.css
+    footer: "Patient & Public Involvement"
+    smaller: false
+    auto-stretch: false
+    mouse-wheel: false
+    history: true
+    touch: true
+    link-external-icon: false
+    link-external-newwindow: true
+    link-external-filter: ^\/Users\/custom
+bibliography: files/refs.bib
+csl: files/elsevier-harvard.csl
+suppress-bibliography: true
+link-citations: true
+link-bibliography: true
+editor: source
+---
+
+## Price Knee Research Group {.smaller background-color="#0F1D41"}
+
+```{=html}
+<hr>
+<br>
+<br>
+<br>
+<h1 style="text-align:center;">Revision Knee Replacement Research</h1>
+<br>
+<br>
+<br>
+```
+## Our research is supported by... {.smaller}
+
+::: columns
+::: {.column width="45%"}
+::: {r-stack}
+![](files/images/nihr.png){width="500"}
+:::
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="45%"}
+::: {r-stack}
+![](files/images/rcs.png){width="350"} ![](files/images/rosetrees.png){width="500"}
+:::
+:::
+:::
+
+# Our team {background-color="#0F1D41"}
+
+# What is a revision knee replacement? {background-color="#0F1D41"}
+
+# Patient involvement {background-color="#0F1D41"}
+
+## <br><br>
+
+::: columns
+::: {.column width="60%"}
+<q>How should we measure the outcomes following revision knee surgery in a way that is meaningful to patients and is surgery cost effective?</q>
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="35%"}
+::: {r-stack}
+![](files/images/jla.png)
+:::
+:::
+:::
+
+::: aside
+[@mathews2020]
+:::
+
+# Recent research {background-color="#0F1D41"}
+
+## How big is the problem?
+
+::: {r-stack}
+![](files/images/epi-time.png){height="500" fig-align="center"}
+:::
+
+## Which conditions do we treat?
+
+::: {r-stack}
+![](files/images/epi-rfr.png){height="500" fig-align="center"}
+:::
+
+## 
+
+::: {r-stack}
+![](files/images/hw-bmj.png)
+:::
+
+-   Further surgery
+-   Complications
+-   Joint function & pain
+-   Recovery
+
+## 
+
+<iframe src="https://shiraz-sabah.shinyapps.io/rKA-app/" width="100%" height="100%"></iframe>
+
+##  {background-image="files/images/feedback1.jpg"}
+
+# Planned research {background-color="#0F1D41"}
+
+## Exploring the experiences of people undergoing revision knee joint replacement surgery
+
+### Dr. Pip Nicolson
+
+## Patient experiences {auto-animate=true}
+
+"What is the impact of living with a troublesome knee joint replacement?"
+
+::: {.fragment .fade-in}
+"What were your hopes/expectations for your knee before revision surgery?"
+:::
+
+::: {.fragment .fade-in}
+"How do you feel about your knee now?"
+:::
+
+::: {.fragment .fade-in}
+"How can we best support people having revision knee surgery?"
+:::
+
+##  {background-image="files/images/feedback5.jpg"}
+
+# Update from the Nuffield Orthopaedic Centre {background-color="#0F1D41"}
+
+## Revision Networks
+
+#### Mr. Thomas Hamilton
+
+## Databases {background-image="files/images/RS8373__pp.jpg" background-size="cover" auto-animate=true background-color="#000000"}
+
+### Dr. Pip Nicolson
+
+::: footer
+Image credit: https://ageing-better.org.uk/news/age-positive-image-library-launched?gclid=EAIaIQobChMIzuvI9Z-o-gIVm-7tCh2QSAl7EAAYAiAAEgJAvvD_BwE
+:::
+
+## Oxford Orthopaedic Research Database (ORD) {auto-animate=true background-color="#0F1D41"}
+
+::: {.fragment .fade-in}
+- Throughout the orthopaedic ‘journey’, a huge amount of clinical data collected
+:::
+
+::: {.fragment .fade-in}
+- However... this is **disjointed** and follow-up is **limited**
+:::
+
+## Oxford Orthopaedic Research Database (ORD) {auto-animate=true background-color="#0F1D41"}
+
+We plan:
+
+::: {.fragment .fade-in}
+- Online collection of patient-reported outcomes
+:::
+
+::: {.fragment .fade-in}
+- Annual follow-up for 10 years
+:::
+
+## Patient videos {background-image="files/images/clapper.jpg" background-size="cover"}
+
+### Miss Naomi Gibbs
+
+## Patient videos
+
+<https://youtu.be/Ly--wGKDfFU>
+
+## Patient videos
+
+```{=html}
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-k6a6{background-color:#4472C4;border-color:inherit;color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-t5rc{background-color:#4472C4;border-color:inherit;color:rgba(0, 0, 0, 0.847);text-align:left;vertical-align:top}
+.tg .tg-vqgc{background-color:#CFD5EA;border-color:inherit;color:rgba(0, 0, 0, 0.847);text-align:left;vertical-align:top}
+.tg .tg-u5r0{background-color:#E9EBF5;border-color:inherit;color:rgba(0, 0, 0, 0.847);text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-k6a6"><span style="font-weight:bold;color:white"> </span></th>
+    <th class="tg-k6a6"><span style="font-weight:bold;color:white">Video timepoint 1</span></th>
+    <th class="tg-k6a6"><span style="font-weight:bold;color:white">Video timepoint 2</span></th>
+    <th class="tg-k6a6"><span style="font-weight:bold;color:white">Video timepoint 3</span></th>
+    <th class="tg-k6a6"><span style="font-weight:bold;color:white">Video timepoint 4</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-t5rc"></td>
+    <td class="tg-vqgc"><span style="color:black">Pre-clinic/</span><br><span style="color:black">After registration</span></td>
+    <td class="tg-vqgc"><span style="color:black">When listed for surgery / pre-POAC/</span><br><span style="color:black">Joint School</span></td>
+    <td class="tg-vqgc"><span style="color:black">On discharge/</span><br><span style="color:black">Rehab</span></td>
+    <td class="tg-vqgc"><span style="color:black">Follow up</span><br><span style="color:black">(2weeks)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-k6a6"><span style="font-weight:bold;color:white">Knee</span></td>
+    <td class="tg-u5r0"><span style="color:black">1. Generic revision knee clinic process video</span></td>
+    <td class="tg-u5r0"><span style="color:black">2. Revision surgery for infection</span></td>
+    <td class="tg-u5r0"><span style="color:black">4. Revision knee</span></td>
+    <td class="tg-u5r0"><span style="color:black">5. Revision knee</span></td>
+  </tr>
+  <tr>
+    <td class="tg-k6a6"><span style="font-weight:bold;color:white"> </span></td>
+    <td class="tg-vqgc"><span style="color:black"> </span></td>
+    <td class="tg-vqgc"><span style="color:black">3. Revision surgery not for infection</span></td>
+    <td class="tg-vqgc"><span style="color:black"> </span></td>
+    <td class="tg-vqgc"><span style="color:black"> </span></td>
+  </tr>
+</tbody>
+</table>
+```
+
+:::{.notes}
+Are you happy with the number of videos?
+What do you think would be important to include the videos?
+Are you happy about when you would receive the videos?
+:::
+
+## Aims
+
+::: {.fragment .fade-in}
+What to expect in revision clinic
+:::
+
+::: {.fragment .fade-in}
+Nuffield orthopaedic centre orientation
+:::
+
+::: {.fragment .fade-in}
+Who you will see
+:::
+
+::: {.fragment .fade-in}
+Additional tests on the day or soon after
+:::
+
+::: {.fragment .fade-in}
+Where/when the decisions about your care will be made 
+:::
+
+::: {.fragment .fade-in}
+Treatment may be surgical or non-surgical (physio/pain team etc.)
+:::
+
+::: {.fragment .fade-in}
+General outcomes of complex knee surgery
+:::
+
+::: {.fragment .fade-in}
+Data collection to improve patient care
+:::
+
+## Feedback? {background-image="files/images/feedback4.jpg"}
+
+# Summary {background-color="#0F1D41"}
+
+##  {background-image="files/images/ty.jpg"}
