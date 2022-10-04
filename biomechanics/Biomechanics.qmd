@@ -30,7 +30,7 @@ editor: source
 
 ## How much force am I putting through the floor right now? (Uche)
 
-## Statics & dynamics (Hosain)
+## Statics & dynamics
 
 ## What is a moment? (Arjun)
 
