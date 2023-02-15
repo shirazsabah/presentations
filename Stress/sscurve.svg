@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Adobe Illustrator 24.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1347.4 1347.4" style="enable-background:new 0 0 1347.4 1347.4;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#fff;stroke-width:8;stroke-miterlimit:10;}
+	.st1{fill:none;stroke:#fff;stroke-width:8;stroke-miterlimit:10;}
+	.st2{fill:none;stroke:#fff;stroke-width:8;stroke-miterlimit:10;stroke-dasharray:12,14,12,14,12,14;}
+	.st3{fill:none;stroke:#00FF33;stroke-width:5;stroke-miterlimit:10;}
+	.st4{fill:none;stroke:#FF0000;stroke-width:5;stroke-miterlimit:10;stroke-dasharray:12,14,12,14,12,14;}
+	.st5{font-family:'MyriadPro-Regular';fill:#fff;stroke:#fff;opacity:0;}
+	.st6{font-size:36px;}
+	.st7{font-size:48px;}
+	.st8{font-size:32px;}
+
+	#Xaxis .st0 {
+	stroke-dasharray: 2000;
+	stroke-dashoffset: 2000;
+	animation: dash 3s linear forwards;
+}
+
+	#Yaxis .st0 {
+	stroke-dasharray: 2000;
+	stroke-dashoffset: 2000;
+	animation: dashy 3s 2.5s linear forwards;
+}
+
+
+	#Elastic .st0 {
+	stroke-dasharray: 2000;
+	stroke-dashoffset: 2000;
+	animation: dashe 4s 5.5s linear forwards;
+}
+
+	.st1 {
+	stroke-dasharray: 2000;
+	stroke-dashoffset: 2000;
+	animation: dashp 5s 9s linear forwards;
+}
+
+	.st5, .st6, .st8 {
+		animation: opacity 5s 12s forwards;
+	}
+
+
+@keyframes dash {
+	to {
+		stroke-dashoffset: 0;
+	}
+}
+
+@keyframes dashy {
+	to {
+		stroke-dashoffset: 0;
+	}
+}
+
+@keyframes dashe {
+	to {
+		stroke-dashoffset: 0;
+	}
+}
+
+@keyframes dashp {
+	to {
+		stroke-dashoffset: 0;
+	}
+}
+
+@keyframes dasht {
+	to {
+		stroke-dashoffset: 0;
+	}
+}
+
+@keyframes opacity {
+	to {
+		opacity: 1;
+	}
+}
+
+</style>
+<g id="Yaxis">
+	<line class="st0" x1="64.1" y1="973.7" x2="60.8" y2="337.7"/>
+</g>
+<g id="Xaxis">
+	<line class="st0" x1="62.6" y1="971.8" x2="1315" y2="973.5"/>
+</g>
+<g id="Elastic">
+	<line class="st0" x1="65.1" y1="968.6" x2="282.7" y2="630.7"/>
+</g>
+<g id="Plastic">
+	<path class="st1" d="M283.8,629l10.5-13.3c0,0,9.2-9,13.3-9.9c9.5-2.1,21.5,37.2,30,39.2c9.1,2.2,31.8-8.8,54.5-19.9
+		c122.1-59.5,77-38.4,212.3-94.1c23.9-9.8,81.7-27.9,112.4-27.9c180.1,0,545.1,152.1,545.1,152.1"/>
+</g>
+<g id="Stress">
+	<text transform="matrix(1 0 0 1 23.2204 293.3017)" class="st5 st6">Stress</text>
+</g>
+<g id="Strain">
+	<text transform="matrix(1 0 0 1 1081.2574 1030.609)" class="st5 st6">Strain</text>
+</g>
+<g id="Nm2">
+	<text transform="matrix(1 0 0 1 122.6998 292.0363)" class="st5 st8">(N/m2)</text>
+</g>
+<g id="None">
+	<text transform="matrix(1 0 0 1 1077.7927 1068.3212)" class="st5 st8">(No units)</text>
+</g>
+</svg>

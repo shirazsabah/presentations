@@ -1,0 +1,29 @@
+
+h1, h2 {
+  display: inline;
+  background-color: black;
+  padding: 0px 5px;
+}
+
+div .columns {
+    float: none;
+    display:table;
+    width: 100%;
+    height: 70%;
+}
+
+div .column {
+  vertical-align: middle;
+  text-align: center;
+}
+
+.img {
+  vertical-align: middle;
+}
+
+
+
+
+
+
+

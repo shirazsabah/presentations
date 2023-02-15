@@ -1,0 +1,148 @@
+---
+title: "Stress and strain"
+format: 
+  revealjs:
+    theme: dark
+    footer: Bone & Joint Education
+    transition: slide
+    css: styles.css
+    background-transition: fade
+    transition-speed: default
+    touch: false
+    controls: true
+    title-slide-attributes:
+      data-background-image: bjebg.png
+    background-image: bjebg.png
+    smaller: true
+    auto-play-media: true
+    chalkboard: true
+---
+
+# This lecture will introduce the material properties *stress* and *strain*
+
+# We will start with the important definitions
+
+## Stress {transition="fade"}
+
+**Stress** is a measure of the *force per unit area*.
+
+::: {.fragment .fade-in}
+This can also be expressed as a mathematical equation:
+
+```{=tex}
+\begin{gather*}
+Stress = \frac{Force}{Area}
+\end{gather*}
+```
+:::
+
+::: {.fragment .fade-in}
+```{=tex}
+\begin{gather*}
+Stress~(N/m^2) = \frac{Force~(N)}{Area~(m^2)}
+\end{gather*}
+```
+:::
+
+::: {.fragment .fade-in}
+```{=tex}
+\begin{gather*}
+\sigma = \frac{F}{A}
+\end{gather*}
+```
+:::
+
+## Strain
+
+**Strain** is the change in length of a material divided by its original length.
+
+::: {.fragment .fade-in}
+```{=tex}
+\begin{gather*}
+Strain = \frac{Change~in~length}{Original~length}
+\end{gather*}
+```
+:::
+
+::: {.fragment .fade-in}
+```{=tex}
+\begin{gather*}
+Strain~(no~units) = \frac{Change~in~length~(m)}{Original~length~(m)}
+\end{gather*}
+```
+:::
+
+::: {.fragment .fade-in}
+```{=tex}
+\begin{gather*}
+\epsilon = \frac{\delta l}{L}
+\end{gather*}
+```
+:::
+
+## Young's modulus
+
+**Young's modulus** is stress divided by strain.
+
+::: {.fragment .fade-in}
+```{=tex}
+\begin{gather*}
+Young's~modulus = \frac{Stress}{Strain}
+\end{gather*}
+```
+:::
+
+::: {.fragment .fade-in}
+```{=tex}
+\begin{gather*}
+E = \frac{\sigma}{\epsilon}
+\end{gather*}
+```
+:::
+
+::: {.fragment .fade-in}
+Consider the mnemonic *FLEA* to help you get the formula the right way round: 
+
+**F**orce times original **L**ength, divided by **E**xtension times **A**rea
+:::
+
+# Video
+:::{.r-stack}
+![](sslec.mp4){width="540" height="540"}
+:::
+
+# Exercises
+
+## Draw and label a stress-strain curve in as much detail as you can
+
+**HINT**: Press `b` to toggle the chalkboard or `c` to toggle the notes canvas.
+
+
+## Stress-strain curve for ductile material
+
+![](sscurve.svg){.absolute top="100" left="200" height="700"}
+
+## Next, draw the point where elastic deformation becomes plastic
+
+**HINT**: Press `b` to toggle the chalkboard or `c` to toggle the notes canvas.
+
+![](sscurve.svg){.absolute top="100" left="200" height="700"}
+
+## Yield point
+
+The transition between elastic and plastic deformation. Defined at an arbitrary amount of strain (usually 0.2%).
+
+![](sscurve2.svg){.absolute top="100" left="200" height="700"}
+
+# What happens if we unload the material after it has been plastically deformed?
+
+## Unloading curve
+
+The material unloads along the blue dashed line and remains permanently deformed.
+
+![](sscurve3.svg){.absolute top="100" left="200" height="700"}
+
+## {background-video="bje.mp4"}
+
+
+
