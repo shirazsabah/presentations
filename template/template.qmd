@@ -1,0 +1,75 @@
+---
+format:
+  revealjs:
+    background-image: false
+    slide-number: true
+    chalkboard: 
+      buttons: false
+    preview-links: auto
+    #logo: SPECIFY PATH
+    theme: [white, files/custom.scss]
+    css: files/styles.css
+    footer: "INSERT FOOTER"
+    smaller: false
+    auto-stretch: false
+    mouse-wheel: false
+    history: true
+    touch: true
+    link-external-icon: false
+    link-external-newwindow: true
+    link-external-filter: ^\/Users\/custom
+    transition: slide
+bibliography: files/refs.bib
+csl: files/elsevier-harvard.csl
+link-citations: true
+link-bibliography: true
+editor: source
+---
+
+## {background-color="#0F1D41"}
+```{=html}
+<br>
+<h1 style="text-align:center;">INSERT TITLE</h1>
+<br>
+<br>
+<p style="text-align:center;">Shiraz Sabah</p>
+
+```
+
+## Single content
+
+None
+
+## Two-cols {.smaller}
+
+::: columns
+::: {.column width="45%"}
+INSERT TEXT
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="45%"}
+:::{r-stack}
+![](files/images/placeholder.png){width="500"}
+:::
+:::
+:::
+
+## SINGLE IMAGE {auto-animate="true"}
+
+:::{r-stack}
+![](files/images/placeholder.png){width="700" fig-align="center"}
+:::
+
+## INSERT IFRAME
+
+```{=html}
+<iframe src="files/images/placeholder_pdf.pdf" style="border: 3px solid #dee2e6;" width="1000" height="550"></iframe>
+```
+
+# Thank you
+<br>
+[shiraz.sabah@ndorms.ox.ac.uk](mailto:shiraz.sabah@ndorms.ox.ac.uk)
+
