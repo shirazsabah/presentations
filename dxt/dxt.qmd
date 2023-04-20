@@ -1,0 +1,156 @@
+---
+format:
+  revealjs:
+    background-image: false
+    slide-number: true
+    chalkboard: 
+      buttons: false
+    preview-links: auto
+    #logo: SPECIFY PATH
+    theme: [white, files/custom.scss]
+    css: files/styles.css
+    footer: "Pre- versus Post-op Radiotherapy for STS"
+    smaller: false
+    auto-stretch: false
+    mouse-wheel: false
+    history: true
+    touch: true
+    link-external-icon: false
+    link-external-newwindow: true
+    link-external-filter: ^\/Users\/custom
+    transition: slide
+bibliography: files/refs.bib
+csl: files/elsevier-harvard.csl
+link-citations: true
+link-bibliography: true
+editor: source
+---
+
+## {background-color="#0F1D41"}
+```{=html}
+<br>
+<h1 style="text-align:center;">Pre- versus Post-op Radiotherapy for STS</h1>
+<br>
+<br>
+<p style="text-align:center;">Shiraz Sabah</p>
+
+```
+
+## Pre- versus Post-op Radiotherapy
+
+```{=html}
+<iframe src="files/images/dxt_sts.pdf" style="border: 3px solid #dee2e6;" width="1000" height="550"></iframe>
+```
+
+## Study design
+
+Phase III RCT
+
+## CONSORT Statement
+
+```{=html}
+<iframe src="https://www.equator-network.org/reporting-guidelines/consort/" style="border: 3px solid #dee2e6;" width="1000" height="550"></iframe>
+```
+
+## CONSORT Statement
+
+```{=html}
+<iframe src="files/images/CONSORT_checklist.pdf" style="border: 3px solid #dee2e6;" width="1000" height="550"></iframe>
+```
+
+## Risk of bias
+
+```{=html}
+<iframe src="files/images/ROB2.png" style="border: 3px solid #dee2e6;" width="1000" height="550"></iframe>
+```
+
+## Aim
+
+To determine whether the timing of external-beam radiotherapy affected the number of wound healing complications in soft-tissue sarcoma in the limbs of adults.
+
+## Outcome measures
+
+- Primary endpoint was the rate of wound complications within 120 days of surgery, defined as:
+
+- Secondary surgery
+- Hospital admission for wound care (e.g. for IV abx)
+- Need for deep packing or prolonged wound dressings for >120 days
+
+## Results
+
+- Study terminated for a highly significant result at planned interim analysis
+- At a median follow-up of 3.3 years, acute wound complications significantly more common with pre-op DXT treatment (35% v 17%)
+- Poor prognostic factors:
+    - Higher volume resected tissue
+    - Lower limb tumours
+
+
+    
+## 5-year results
+
+```{=html}
+<iframe src="files/images/5y_res.png" style="border: 3px solid #dee2e6;" width="1000" height="550"></iframe>
+```
+
+
+## Late radiation morbidity
+
+```{=html}
+<iframe src="files/images/dxt_late.pdf" style="border: 3px solid #dee2e6;" width="1000" height="550"></iframe>
+```
+
+## Longer-term results
+
+- No difference in local control with pre- versus post- DXT (at median 6.9 years)
+- ~90% local control
+- Similar progression-free and overall survival
+- Post-op DXT associated to higher grade 2 to 4 late toxicity (86% v 68%).
+- Grade 3-4 significantly higher in post-op (36% v 23%)
+
+## Radiation toxicity
+
+```{=html}
+<iframe src="https://en.wikibooks.org/wiki/Radiation_Oncology/Toxicity_grading/RTOG" style="border: 3px solid #dee2e6;" width="1000" height="550"></iframe>
+```
+
+## What is a radiation-associated sarcoma? {.smaller .scrollable}
+
+- Contrast with *sporadic* sarcoma
+- Cahan criteria
+
+  - Radiation given previously; sarcoma arising in the area included within the 5 percent isodose line.
+  - Histologic features of original lesion and post-radiation sarcoma different.
+  - Patients with inherited syndromes that predispose to sarcomas should be excluded.
+  - Minimal latency period (between initiation of DXT initiation and diagnosis of second tumour) >5 years*
+
+*Controversial - may be as little as 6 months
+
+## TAKE HOME 1: When is DXT not needed? {.smaller}
+
+Surgical excision alone for:
+
+- Superficial tumours
+- Low-grade tumours <5cm in diameter
+- Intramuscular tumours that can be resected with wide margin and still preserve function
+
+## TAKE HOME 2: Pre-op DXT {.smaller}
+
+::: columns
+::: {.column width="45%"}
+### Advantages
+- Lower dose (50 Gy) to a smaller target volume (compared to 50 Gy plus 16 to 20 Gy boost)
+- May reduce tumour burden and allow more conservative surgery
+- Upper limb > Lower limb
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="45%"}
+### Disadvantages
+- Histological examination of specimen less useful
+- Higher rate of wound complications
+:::
+:::
+
+# Thank you

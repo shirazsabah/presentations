@@ -1,0 +1,97 @@
+---
+format:
+  revealjs:
+    background-image: false
+    slide-number: true
+    chalkboard: 
+      buttons: false
+    preview-links: auto
+    #logo: SPECIFY PATH
+    theme: [white, files/custom.scss]
+    css: files/styles.css
+    footer: "Bone"
+    logo: files/stanmore_logo.png
+    smaller: false
+    auto-stretch: false
+    mouse-wheel: false
+    history: false
+    touch: true
+    link-external-icon: false
+    link-external-newwindow: true
+    link-external-filter: ^\/Users\/custom
+    transition: slide
+bibliography: files/refs.bib
+csl: files/elsevier-harvard.csl
+link-citations: true
+link-bibliography: true
+editor: source
+---
+
+## {background-color="#0F1D41"}
+```{=html}
+<br>
+<h1 style="text-align:center;">Bone</h1>
+<br>
+<br>
+<p style="text-align:center;">Shiraz Sabah</p>
+
+```
+
+## What is a biomaterial? (Amir)
+
+## What are the common orthopaedic biomaterials? (Chris)
+
+## Provide a framework to describe any biomaterial (Chuk)
+
+## Apply this framework to bone (Tolga)
+
+## What are the different types of bone? (Sonia)
+
+## Draw a macro section of cancellous bone (Thomas)
+
+## Draw a macro section of cortical bone (Uche)
+
+## Describe the microscopic structure of bone (Amit T)
+
+## Draw a diagram of collagen synthesis (Anuhya)
+
+## Draw an osteoblast (Jonathan)
+
+## Draw an osteoclast (Nadine)
+
+## Illustrate the paracrine agents involved in bone metabolism (Amit Z)
+
+## Draw a diagram of the hormones involved in bone metabolism (Amir)
+
+## What are the mechanical properties of bone? (Chris)
+
+# Bad bone {background-color="#0F1D41"}
+
+## Broken bones
+
+## What phases do most tissues go through following injury? (Chuk)
+
+## Types of bone healing (Tolga)
+
+## Draw a diagram to illustrate primary bone healing (Sonia)
+
+## Draw a diagram to illustrate Wolf's law (Thomas)
+
+## Metabolic bone diseases
+
+## Tell me about osteomalacia (Uche)
+
+## Tell me about osteoporosis (Amit T)
+
+## Paget's disease (Anuhya)
+
+## Vitamin D disorders (Jonathan)
+
+## Hyperparathyroidism (Nadine)
+
+## Bone graft (Amit Z)
+
+# Thank you
+<br>
+[shiraz.sabah@nhs.net](mailto:shiraz.sabah@nhs.net)
+
