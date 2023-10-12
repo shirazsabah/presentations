@@ -1,0 +1,90 @@
+---
+format:
+  revealjs:
+    background-image: false
+    slide-number: true
+    chalkboard: 
+      buttons: false
+    preview-links: auto
+    #logo: SPECIFY PATH
+    theme: [white, files/custom.scss]
+    css: files/styles.css
+    footer: "ORUK Basic Science"
+    smaller: false
+    auto-stretch: false
+    mouse-wheel: false
+    history: true
+    touch: true
+    link-external-icon: false
+    link-external-newwindow: true
+    link-external-filter: ^\/Users\/custom
+    transition: slide
+bibliography: files/refs.bib
+csl: files/elsevier-harvard.csl
+link-citations: true
+link-bibliography: true
+editor: source
+---
+
+## {background-color="#0F1D41"}
+```{=html}
+<br>
+<h1 style="text-align:center;">Biomaterials and Tribology</h1>
+<br>
+<br>
+<p style="text-align:center;">Shiraz Sabah</p>
+
+```
+
+## An approach to biomaterials
+
+- Composition
+- Manufacture
+- Properties
+- Uses
+
+## Material properties
+
+## Design a total hip replacement
+
+## {auto-animate="true"}
+
+:::{r-stack}
+![](files/images/ceramic_head.png){width="300" fig-align="center"}
+:::
+
+## {auto-animate="true"}
+
+:::{r-stack}
+![](files/images/cocr_head.png){width="300" fig-align="center"}
+:::
+
+## {auto-animate="true"}
+
+:::{r-stack}
+![](files/images/corail.jpg){width="300" fig-align="center"}
+:::
+
+## {auto-animate="true"}
+
+:::{r-stack}
+![](files/images/exeter.jpg){width="300" fig-align="center"}
+:::
+
+## {auto-animate="true"}
+
+:::{r-stack}
+![](files/images/bone_cement.jpg){width="300" fig-align="center"}
+:::
+
+
+## {auto-animate="true"}
+
+:::{r-stack}
+![](files/images/uhmwpe.jpg){width="300" fig-align="center"}
+:::
+
+# Thank you
+<br>
+[shiraz.sabah@ndorms.ox.ac.uk](mailto:shiraz.sabah@ndorms.ox.ac.uk)
+
