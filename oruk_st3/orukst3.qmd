@@ -121,6 +121,14 @@ editor: source
     - Principles for organising a theatre list
 
 
+## It's (nearly) all communication {auto-animate="true"}
+
+90/232 points!
+
+:::{r-stack}
+![](files/images/matrix.png){width="700" fig-align="center"}
+:::
+
 ## Orthosearch
 
 ```{=html}
