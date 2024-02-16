@@ -107,6 +107,12 @@ editor: source
 <iframe src="files/images/st3_handbook_2024.pdf" style="border: 3px solid #dee2e6;" width="1000" height="550"></iframe>
 ```
 
+## Reference the [Person Specification](https://medical.hee.nhs.uk/medical-training-recruitment/medical-specialty-training/person-specifications/person-specifications-2024/trauma-and-orthopaedic-surgery-st3-2024)
+
+```{=html}
+<iframe src="files/images/person_spec_2024.pdf" style="border: 3px solid #dee2e6;" width="1000" height="550"></iframe>
+```
+
 ## Form a small group {auto-animate="true"}
 
 :::{r-stack}
@@ -122,8 +128,6 @@ editor: source
 
 
 ## It's (nearly) all communication {auto-animate="true"}
-
-90/232 points!
 
 :::{r-stack}
 ![](files/images/matrix.png){width="700" fig-align="center"}
