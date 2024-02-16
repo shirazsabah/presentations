@@ -1,0 +1,151 @@
+---
+format:
+  revealjs:
+    background-image: false
+    slide-number: true
+    chalkboard: 
+      buttons: false
+    preview-links: auto
+    logo: files/images/oruk_logo.png
+    theme: [white, files/custom.scss]
+    css: files/styles.css
+    footer: "ST3 Interview Course"
+    smaller: false
+    auto-stretch: false
+    mouse-wheel: false
+    history: true
+    touch: true
+    link-external-icon: false
+    link-external-newwindow: true
+    link-external-filter: ^\/Users\/custom
+    transition: slide
+bibliography: files/refs.bib
+csl: files/elsevier-harvard.csl
+link-citations: true
+link-bibliography: true
+editor: source
+---
+
+## {background-color="#0080FF"}
+```{=html}
+<br>
+<br>
+<br>
+<br>
+<h1 style="text-align:center;">WELCOME</h1>
+<br>
+<br>
+<p style="text-align:center;"></p>
+
+```
+
+## Faculty
+
+- Consultants
+- Registrars
+
+
+## Goals
+
+- Learning environment
+- Principles
+- Practice
+
+## Programme
+
+```{=html}
+<iframe src="files/images/st3_prog_2024.pdf" style="border: 3px solid #dee2e6;" width="1000" height="550"></iframe>
+```
+
+## Interview circuit
+
+- Four stations
+    - Commitment to Specialty
+    - Communication
+    - Clinical
+    - Prioritisation
+    
+- 10 mins testing, 5 mins feedback
+- Pairs
+- Circuit 1, Candidate 1 ... SWAP!
+
+## orthost3.teachable.com {auto-animate="true"}
+
+:::{r-stack}
+![](files/images/orthost3_web.png){width="700" fig-align="center"}
+:::
+
+## {background-color="#0080FF"}
+```{=html}
+<br>
+<br>
+<br>
+<br>
+<h1 style="text-align:center;">Top Tips</h1>
+<br>
+<br>
+<p style="text-align:center;"></p>
+
+```
+
+
+## Make this your homepage {auto-animate="true"}
+
+:::{r-stack}
+![](files/images/yh_web.png){width="700" fig-align="center"}
+:::
+
+## Read this...
+
+```{=html}
+<iframe src="files/images/st3_handbook_2024.pdf" style="border: 3px solid #dee2e6;" width="1000" height="550"></iframe>
+```
+
+## ... over and over
+
+```{=html}
+<iframe src="files/images/st3_handbook_2024.pdf" style="border: 3px solid #dee2e6;" width="1000" height="550"></iframe>
+```
+
+## Form a small group {auto-animate="true"}
+
+:::{r-stack}
+![](files/images/inbetweeners.png){width="700" fig-align="center"}
+:::
+
+## Talk, talk, talk
+
+- Write stock answers to the most common questions
+    - A-E Trauma
+    - Why me?
+    - Principles for organising a theatre list
+
+
+## Orthosearch
+
+```{=html}
+<iframe src="https://orthosearch.org.uk/Home" style="border: 3px solid #dee2e6;" width="1000" height="550"></iframe>
+```
+
+## Discover how to look good online!
+
+- Lighting
+- Camera position
+- Clothing
+- Background
+- Microphone
+- Connection
+
+
+## {background-color="#0080FF"}
+```{=html}
+<br>
+<br>
+<br>
+<br>
+<h1 style="text-align:center;">GOOD LUCK!</h1>
+<br>
+<br>
+<p style="text-align:center;"></p>
+
+```
