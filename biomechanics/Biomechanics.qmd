@@ -14,46 +14,52 @@ format:
 editor: source
 ---
 
-## Definition of biomechanics (Ahmed)
+## Definition of biomechanics
 
-## What are the six simple machines? (Amit Z/Tolga/Sonia)
+## What are the six simple machines?
 
-## Trigonometry (Prashant/Sachi)
+## Trigonometry: Leg length and offset when adding femoral head to 125 deg v 135 deg THR stem?
 
-## Leg length and offset when adding femoral head to 125 deg v 135 deg THR stem? (Karen/Thomas)
+## Scalars & vectors
 
-## Scalars & vectors (Joshua/Ankur)
+## What is a force?
 
-## What is a force? (Amit A/Firas)
+## What are Newton's laws of motion?
 
-## What are Newton's laws of motion? (Amir)
-
-## How much force am I putting through the floor right now? (Uche)
+## How much force am I putting through the floor right now?
 
 ## Statics & dynamics
 
-## What is a moment? (Arjun)
+## What is a moment?
 
-## Examples of levers (Jamie)
+## Examples of levers
 
-## What is a free body diagram? (Oliver)
+## What is a free body diagram & the assumptions?
 
-## Assumptions of free body diagrams (George)
+## Hip FBD
 
-## Kinematics v Kinetics (Jonathan)
+## THR FBD
 
-## Define: Work (Mohammed)
+## Tibiofemoral FBD
 
-## Define: Potential energy (Nadine)
+## Patellofemoral FBD
 
-## Define: Kinetic energy (Richard)
+## Spine FBD
 
-## Define: Power (Michael)
+## Kinematics v Kinetics
 
-## What is Hooke's law? (Chukwundabem)
+## Define: Work
 
-## Define stress (Chris)
+## Define: Potential energy
 
-## Define strain (Nikki)
+## Define: Kinetic energy
 
-## Stress-strain curve (Fahimara, Shreyas, Harry)
+## Define: Power
+
+## What is Hooke's law?
+
+## Define stress
+
+## Define strain
+
+## Stress-strain curve
