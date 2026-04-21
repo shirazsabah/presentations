@@ -14,6 +14,14 @@ format:
 editor: source
 ---
 
+# Questions
+- Definitions: biomechanics, scalars, vectors, statics, dynamics, force, moment, work, kinematics, kinetics, PE, KE, power
+- What are the six simple machines? Examples
+- What are Newton's laws of motion?
+- What is a free body diagram?
+- Draw a FBD of a hip, total hip replacement, tibiofemoral joint, patellofemoral joint, spine segment
+- What is trigonometry? Applied to femoral stem
+
 ## Definition of biomechanics
 
 ## What are the six simple machines?
