@@ -1,0 +1,218 @@
+---
+format:
+  revealjs: 
+    slide-number: true
+    chalkboard: 
+      buttons: false
+    preview-links: auto
+    logo: files/images/stanmore_logo.png
+    theme: white
+    css: files/styles.css
+    footer: "Oxford Revision Hip & Knee Arthroplasty Course"
+    smaller: false
+    auto-stretch: false
+    mouse-wheel: false
+    history: true
+    touch: true
+    link-external-icon: false
+    link-external-newwindow: true
+    link-external-filter: ^\/Users\/custom
+bibliography: files/refs.bib
+csl: files/elsevier-harvard.csl
+link-citations: true
+link-bibliography: true
+editor: source
+---
+
+## {.smaller background-color="#0F1D41"}
+
+```{=html}
+<br>
+<h1 style="text-align:center;">Cerament in Revision Hip & Knee Replacement</h1>
+<br>
+<br>
+<p style="text-align:center; color:#01A2DE;">Shiraz A. Sabah</p>
+<p style="text-align:center; color:#EE7520;">Consultant Hip & Knee Surgeon</p>
+<p style="text-align:center; color:#EE7520;">Royal National Orthopaedic Hospital, Stanmore</p>
+
+
+```
+
+::: {.footer}
+:::
+
+## Conflicts of interest
+
+- This meeting is sponsored. 
+- I have no relevant personal disclosures.
+
+## Introduction {background-color="#0F1D41"}
+
+- Shorter == Longer
+- Oral == IV
+- Local antibiotics ... ?
+
+## Biofilm
+
+::: columns
+::: {.column width="40%"}
+-  Bacteria encased in extracellular matrix
+    -  1000x antibiotic resistance c.f. free-floating bacteria
+    
+-  Systemic administration limited by toxicity  
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="55%"}
+:::{r-stack}
+![](files/images/sa_biofilm.jpg){width="400"}
+:::
+:::
+:::
+
+::: {.footer}
+- _Image credit: S. aureus biofilm, CDC/Janice Haney Carr_
+:::
+
+## Cerament
+
+::: columns
+::: {.column width="55%"}
+- 60% calcium sulfate
+    - Antibiotic carrier
+- 40% hydroxyapatite
+    - Osteoconductive
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="35%"}
+:::{r-stack}
+![](files/images/cerament_composition.png){width="400"}
+:::
+:::
+:::
+
+## Cerament
+
+:::{r-stack}
+![](files/images/cerament_bacterial_profile.png){height="500" fig-align="center"}
+:::
+
+::: {.footer}
+- _Cerament G_ = G+ and G-, except MRSA (and resistant organisms); Saline
+- _Cerament V_ = G+ only; Iohexol
+:::
+
+## Elution
+
+:::{r-stack}
+![](files/images/cerament_mic.png){height="500" fig-align="center"}
+:::
+
+::: {.footer}
+- _Minimal Inhibitory Concentration (MIC)_ = Lowest concentration of an antibiotic to prevent visible growth in vitro
+- _Minimal Biofilm Eradication Concentration (MBEC)_ = Lowest concentration of antibiotic to completely eradicate biofilm
+- _PMMA_ = Most elution within 24 hours
+:::
+
+## Mixing
+
+```{=html}
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/823380223?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" referrerpolicy="strict-origin-when-cross-origin" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="CERAMENT® G - Mixing Video       (A0535)"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+```
+
+## Mixing
+
+```{=html}
+<iframe src="files/papers/mixing.pdf" style="border: 3px solid #dee2e6;" width="1000" height="550"></iframe>
+```
+
+## Application
+
+```{=html}
+<iframe src="https://www.bonesupport.com/wp-content/uploads/2022/09/PR-01214-02-en-AU-CA-EU-ROW-US-Oxford-live-surgery-video-Tips-and-tricks-with-CERAMENT-G-1.mp4" style="border: 3px solid #dee2e6;" width="1000" height="550"></iframe>
+```
+
+## Bead tray
+
+:::{r-stack}
+![](files/images/cerament_beads.png){height="500" fig-align="center"}
+:::
+
+## Evidence
+
+- Lots for osteomyelitis / fracture-related infection
+- Safety studies and case reports for PJI
+
+::: columns
+::: {.column width="45%"}
+![](files/images/cerament_study1.png){height="400" fig-align="center"}
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="45%"}
+![](files/images/cerament_study2.png){height="400" fig-align="center"}
+:::
+:::
+:::
+
+## Revision Knee {auto-animate=true}
+
+![](files/images/revision_tkr.png){data-id="knee-img" height="500" fig-align="center"}
+
+## Revision Knee {auto-animate=true}
+
+:::: {style="display:flex; justify-content:center; gap:1.5em; align-items:center;"}
+
+![](files/images/episiotomy.png){data-id="epi-img" height="320"}
+
+![](files/images/episiotomy_cerament.png){data-id="epi-cerament-img" height="320"}
+
+::::
+
+## Revision Hip {auto-animate=true}
+
+![](files/images/cerament_eto.png){data-id="hip-img" height="500" fig-align="center"}
+
+## Revision Hip {auto-animate=true}
+
+:::: {style="display:flex; justify-content:center; gap:2em; align-items:center;"}
+
+![](files/images/cerament_eto.png){data-id="hip-img"}
+
+![](files/images/cerament_eto_xr.png)
+
+::::
+
+## Revision Hip
+
+![](files/images/cerament_eto_jb.png){height="500" fig-align="center"}
+
+
+## Revision Hip {auto-animate=true}
+
+![](files/images/hip_cerament_chips.png){height="500" fig-align="center"}
+
+## Revision Hip {auto-animate=true}
+
+![](files/images/cerament_custom.gif){data-id="hip-custom" height="500" fig-align="center"}
+
+## Revision Hip {auto-animate=true}
+
+:::: {style="display:flex; justify-content:center; gap:2em; align-items:center;"}
+
+![](files/images/cerament_custom.gif){data-id="hip-custom"}
+
+![](files/images/cerament_custom.png)
+
+::::
+
+# Thank you
+<br>
+[shiraz.sabah@nhs.net](mailto:shiraz.sabah@nhs.net)
